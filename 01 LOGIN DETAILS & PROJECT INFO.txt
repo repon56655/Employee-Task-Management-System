@@ -8,6 +8,11 @@ Username: admin
 Password: admin123
 
 
+**Employee Login Details**
+Username: jsmith
+Password: 12345
+
+
 NOTE: after creating new account for the employees, you'll get a random generated
 temporary password which is provided inside "Manage User" section of the application.
 Copy that Temp Password and use it for the employee's login.
