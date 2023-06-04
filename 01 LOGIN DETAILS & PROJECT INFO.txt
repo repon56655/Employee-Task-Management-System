@@ -10,7 +10,7 @@ Password: admin123
 
 **Employee Login Details**
 Username: jsmith
-Password: 12345
+Password: jsmith123
 
 
 NOTE: after creating new account for the employees, you'll get a random generated
